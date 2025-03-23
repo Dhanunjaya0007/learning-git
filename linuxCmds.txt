@@ -1,0 +1,35 @@
+Linux Commands -
+
+1. whoami - it displays the host name.
+
+2. date - it displays the current date and time.
+
+3. cal = "calender" - it displays an calendar of the given month or year.
+
+4. cd = "change directory" - it changes directories (folder).
+
+5. touch - it creates a file by given name.txt.
+
+6. ls = "list" - it displays files in a specific directory.
+
+7. echo - it displays text or string that are passed to it as arguments.
+
+8. mkdir = "makedirectory" - it creates new directories.
+
+9. cat - it displays the content in the file.
+
+10. clear - it clears everything in the terminal screen.
+
+11. rm = "remove" - it delete a file or directory.
+
+12. mv = "move" - it moves files and directories from one directory to another  or  rename a file or directory.
+
+13. pwd = "print working directory" - it displays the absolute path of your current diretory in the terminal.
+
+14. nano - it is used to open  and edit files.
+
+15. history - it displays all the commands that we used in terminal screen.
+
+16. cp = "copy" - it is used to copy files and directory.
+
+17. history > history.txt - it copy commands to append the current history to a file.
